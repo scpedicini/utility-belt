@@ -1,5 +1,5 @@
 {
-  "name": "utility-belt",
+  "name": "@scpedicini/utility-belt",
   "version": "1.0.0",
   "description": "Utility belt contains set of useful functions for JS and node projects.",
   "main": "misc.js",
@@ -11,12 +11,12 @@
     "url": "git+https://github.com/scpedicini/utility-belt.git"
   },
   "author": "Shaun Pedicini",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/scpedicini/utility-belt/issues"
   },
   "homepage": "https://github.com/scpedicini/utility-belt#readme",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry":"https://npm.pkg.github.com/scpedicini"
   }
 }
